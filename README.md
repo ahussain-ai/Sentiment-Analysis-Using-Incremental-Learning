@@ -2,14 +2,14 @@
 This project demonstrates an approach to sentiment analysis using incremental learning. The focus is on processing a large dataset of Amazon reviews and building a sentiment classification model using Support Vector Machines (SVM) and performing incremental learning using SGD classifiers with word embeddings.
 
 ### Table of Contents
-1. Introduction
-2. Dataset
-3. Word Embeddings
-4. Data Preprocessing
-4. Model Training
-5. Evaluation
-6. Usage
-6. Results
+1. ###### Introduction
+2. ###### Dataset
+3. ###### Word Embeddings
+4. ###### Data Preprocessing
+4. ###### Model Training
+5. ###### Evaluation
+6. ###### Usage
+6. ###### Results
    
 #### Introduction
 Sentiment analysis is the process of determining the emotional tone behind a series of words. It is used to gain an understanding of the attitudes, opinions, and emotions expressed in text. This project uses a large dataset of Amazon reviews to train a sentiment classification model incrementally.
