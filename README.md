@@ -1,7 +1,7 @@
 ## Incremental Learning Sentiment Analysis
-This project demonstrates an approach to sentiment analysis using incremental learning. The focus is on processing a large dataset of Amazon reviews and building a sentiment classification model using Support Vector Machines (SVM) with word embeddings.
+This project demonstrates an approach to sentiment analysis using incremental learning. The focus is on processing a large dataset of Amazon reviews and building a sentiment classification model using Support Vector Machines (SVM) and performing incremental learning using SGD classifiers with word embeddings.
 
-###Table of Contents
+### Table of Contents
 1. Introduction
 2. Dataset
 3. Word Embeddings
